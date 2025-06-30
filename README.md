@@ -58,7 +58,7 @@ object AboutMe {
     }
 
     object ProblemSolvedCount {
-        const val JAVA = 1745
+        const val JAVA = 1748
         const val KOTLIN = 529
         const val SQL = 52
         const val HYPER_SKILL = 638
