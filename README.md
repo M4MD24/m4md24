@@ -83,15 +83,15 @@ object AboutMe {
 
 </div>
 
-- [HTML](https://github.com/m4md24/LearnHTML)
-- [CSS](https://github.com/m4md24/LearnCSS)
 - [Markdown](https://github.com/m4md24/LearnMarkdown)
-- [Mermaid](https://github.com/m4md24/LearnMermaid)
 - [Git and GitHub](https://github.com/m4md24/LearnGitAndGithub)
-- [Java](https://github.com/m4md24/LearnJava)
+- [Mermaid](https://github.com/m4md24/LearnMermaid)
+- [XML](https://github.com/m4md24/LearnXML)
 - [JSON](https://github.com/m4md24/LearnJSON)
 - [SQL](https://github.com/m4md24/LearnSQL)
-- [XML](https://github.com/m4md24/LearnXML)
+- [HTML](https://github.com/m4md24/LearnHTML)
+- [CSS](https://github.com/m4md24/LearnCSS)
+- [Java](https://github.com/m4md24/LearnJava)
 - [Kotlin](https://github.com/m4md24/LearnKotlin)
 - Android
     - Legacy Code
