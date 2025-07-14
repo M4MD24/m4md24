@@ -75,7 +75,13 @@ object AboutMe {
 
 </div>
 
+- [Markdown](https://github.com/m4md24/LearnMarkdown)
+- [Git and GitHub](https://github.com/m4md24/LearnGitAndGithub)
 - [Programming Advices Courses](https://github.com/stars/M4MD24/lists/programming-advices-courses)
+- [Mermaid](https://github.com/m4md24/LearnMermaid)
+- [XML](https://github.com/m4md24/LearnXML)
+- [JSON](https://github.com/m4md24/LearnJSON)
+- [SQL](https://github.com/m4md24/LearnSQL)
 
 <div dir="rtl">
 
@@ -83,12 +89,6 @@ object AboutMe {
 
 </div>
 
-- [Markdown](https://github.com/m4md24/LearnMarkdown)
-- [Git and GitHub](https://github.com/m4md24/LearnGitAndGithub)
-- [Mermaid](https://github.com/m4md24/LearnMermaid)
-- [XML](https://github.com/m4md24/LearnXML)
-- [JSON](https://github.com/m4md24/LearnJSON)
-- [SQL](https://github.com/m4md24/LearnSQL)
 - [HTML](https://github.com/m4md24/LearnHTML)
 - [CSS](https://github.com/m4md24/LearnCSS)
 - [Java](https://github.com/m4md24/LearnJava)
