@@ -99,5 +99,3 @@ object AboutMe {
         - Kotlin & XML
     - Jetpack Compose
         - Kotlin
-- Firebase
-- Supabase
