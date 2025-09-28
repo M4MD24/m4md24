@@ -17,10 +17,10 @@ object AboutMe {
             const val PRIVATE_TELEGRAM = "https://t.me/m4md24"
 
             object ForProgramming {
-                object NullexiaForProgramming {
-                    const val CHANNEL = "https://t.me/Nullexia"
-                    const val COMMUNITY = "https://t.me/NullexiaCommunity"
-                    const val PRIVATE_TELEGRAM = "https://t.me/NullexiaChat"
+                object Barmajaa {
+                    const val CHANNEL = "https://t.me/Barmajaa"
+                    const val COMMUNITY = "https://t.me/BarmajaaCommunity"
+                    const val PRIVATE_TELEGRAM = "https://t.me/BarmajaaChat"
                 }
 
                 object SoftwareConsulting {
@@ -28,24 +28,12 @@ object AboutMe {
                     const val COMMUNITY = "https://t.me/ProgrammersAndDevelopers"
                 }
             }
-
-            object ForIslam {
-                object Ayat_W_Ahadith {
-                    const val CHANNEL = "https://t.me/Ayat_W_Ahadith"
-                }
-
-                object StaunchBrotherhood {
-                    const val CHANNEL = "https://t.me/StaunchBrotherhood"
-                    const val COMMUNITY = "https://t.me/StaunchBrotherhoodCommunity"
-                }
-            }
         }
 
         const val GITHUB = "https://github.com/m4md24"
         const val LINKEDIN = "https://www.linkedin.com/in/m4md24"
         const val YOUTUBE = "https://www.youtube.com/@m4md24"
-        const val MOBILE_NUMBER_1 = "+201555400034"
-        const val MOBILE_NUMBER_2 = "+201117900074"
+        const val MOBILE_NUMBER = "+201555400034"
 
         object ProblemSolvingAndLearning {
             const val CODERHUB_AND_SATR = "https://profile.satr.codes/m4md24/public/overview"
