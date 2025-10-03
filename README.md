@@ -19,7 +19,7 @@ object AboutMe {
             object ForProgramming {
                 object Barmajaa {
                     const val CHANNEL = "https://t.me/Barmajaa"
-                    const val COMMUNITY = "https://t.me/BarmajaaCommunity"
+                    const val COMMUNITY = "https://t.me/HadeethBarmajaa"
                     const val PRIVATE_TELEGRAM = "https://t.me/BarmajaaChat"
                 }
 
