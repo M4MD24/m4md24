@@ -49,7 +49,7 @@ object AboutMe {
         const val JAVA = 1752
         const val KOTLIN = 527
         const val SQL = 52
-        const val HYPER_SKILL = 888
+        const val HYPER_SKILL = 889
         const val PROGRAMMING_ADVICES = 429
     }
 }
