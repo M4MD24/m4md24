@@ -83,7 +83,4 @@ object AboutMe {
 - [Kotlin](https://github.com/m4md24/LearnKotlin)
 - Android
     - Legacy Code
-        - Java & XML
-        - Kotlin & XML
-    - Jetpack Compose
-        - Kotlin
+    - [Jetpack Compose](https://github.com/m4md24/LearnJetpackCompose)
