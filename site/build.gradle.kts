@@ -8,12 +8,13 @@ plugins {
 }
 
 group = "com.barmajaa.m4md24"
-version = "1.0-SNAPSHOT"
+version = "V1.0"
 
 kobweb {
     app {
         index {
-            description.set("Powered by Kobweb")
+            faviconPath.set("MohamedSadawy.png")
+            description.set("Software Engineer / Android Apps Developer")
         }
     }
 }
@@ -29,7 +30,6 @@ kotlin {
             implementation(libs.kobweb.silk)
             implementation(libs.silk.icons.fa)
             // implementation(libs.kobwebx.markdown)
-            
         }
     }
 }
