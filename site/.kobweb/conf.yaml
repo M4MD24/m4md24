@@ -1,0 +1,14 @@
+site:
+  title: "m4md24"
+
+server:
+  files:
+    dev:
+      contentRoot: "build/processedResources/js/main/public"
+      script: "build/kotlin-webpack/js/developmentExecutable/m4md24.js"
+      api: "build/libs/m4md24.jar"
+    prod:
+      script: "build/kotlin-webpack/js/productionExecutable/m4md24.js"
+      siteRoot: ".kobweb/site"
+
+  port: 8080
