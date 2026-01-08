@@ -1,53 +1,86 @@
-This is a [Kobweb](https://github.com/varabyte/kobweb) project bootstrapped with the `app/empty` template.
+<div dir="rtl">
 
-This template is useful if you already know what you're doing and just want a clean slate. By default, it
-just creates a blank home page (which prints to the console so you can confirm it's working)
+# السلام عليكم و رحمة الله و بركاته
 
-If you are still learning, consider instantiating the `app` template (or one of the examples) to see actual,
-working projects.
+</div>
 
-## Getting Started
+```kotlin
+object AboutMe {
+    const val FIRST_NAME = "Mohamed"
+    const val SECOND_NAME = "Sadawy"
+    const val ROLE = "Android Apps Developer"
 
-First, run the development server by typing the following command in a terminal under the `site` folder:
+    object Communication {
+        const val EMAIL = "m4md24@gmail.com"
 
-```bash
-$ cd site
-$ kobweb run
+        object Telegram {
+            const val PRIVATE_TELEGRAM = "https://t.me/m4md24"
+
+            object ForProgramming {
+                object Barmajaa {
+                    const val CHANNEL = "https://t.me/Barmajaa"
+                    const val COMMUNITY = "https://t.me/HadeethBarmajaa"
+                    const val PRIVATE_TELEGRAM = "https://t.me/BarmajaaChat"
+                }
+
+                object SoftwareConsulting {
+                    const val CHANNEL = "https://t.me/SoftwareConsulting"
+                    const val COMMUNITY = "https://t.me/ProgrammersAndDevelopers"
+                }
+            }
+        }
+
+        const val GITHUB = "https://github.com/m4md24"
+        const val LINKEDIN = "https://www.linkedin.com/in/m4md24"
+        const val YOUTUBE = "https://www.youtube.com/@m4md24"
+        const val MOBILE_NUMBER = "+201555400034"
+
+        object ProblemSolvingAndLearning {
+            const val CODERHUB_AND_SATR = "https://profile.satr.codes/m4md24/public/overview"
+            const val LEETCODE = "https://leetcode.com/u/m4md24"
+            const val HACKER_RANK = "https://www.hackerrank.com/profile/m4md24"
+            const val CODEFORCES = "https://codeforces.com/profile/M4MD24"
+            const val HYPER_SKILL = "https://hyperskill.org/my-learning/621065640"
+            const val DISQUS = "https://disqus.com/by/m4md24"
+        }
+    }
+    // Sum = 3,688 (Not Repeated)
+    object ProblemSolvedCount {
+        const val JAVA = 1752
+        const val KOTLIN = 527
+        const val SQL = 52
+        const val HYPER_SKILL = 928
+        const val PROGRAMMING_ADVICES = 429
+    }
+}
 ```
 
-Open [http://localhost:8080](http://localhost:8080) with your browser to see the result.
+<div dir="rtl">
 
-You can use any editor you want for the project, but we recommend using **IntelliJ IDEA Community Edition** downloaded
-using the [Toolbox App](https://www.jetbrains.com/toolbox-app/).
+## مشاريعي التوثيقية
 
-Press `Q` in the terminal to gracefully stop the server.
+### أساسيات البداية
 
-### Live Reload
+</div>
 
-Feel free to edit / add / delete new components, pages, and API endpoints! When you make any changes, the site will
-indicate the status of the build and automatically reload when ready.
+- [Markdown](https://github.com/m4md24/LearnMarkdown)
+- [Git and GitHub](https://github.com/m4md24/LearnGitAndGithub)
+- [Programming Advices Courses](https://github.com/stars/M4MD24/lists/programming-advices-courses)
+- [Mermaid](https://github.com/m4md24/LearnMermaid)
+- [XML](https://github.com/m4md24/LearnXML)
+- [JSON](https://github.com/m4md24/LearnJSON)
+- [SQL](https://github.com/m4md24/LearnSQL)
 
-## Exporting the Project
+<div dir="rtl">
 
-When you are ready to ship, you should shutdown the development server and then export the project using:
+### أساسيات التخصص (تطوير تطبيقات أندرويد)
 
-```bash
-kobweb export
-```
+</div>
 
-When finished, you can run a Kobweb server in production mode:
-
-```bash
-kobweb run --env prod
-```
-
-If you want to run this command in the Cloud provider of your choice, consider disabling interactive mode since nobody
-is sitting around watching the console in that case anyway. To do that, use:
-
-```bash
-kobweb run --env prod --notty
-```
-
-Kobweb also supports exporting to a static layout which is compatible with static hosting providers, such as GitHub
-Pages, Netlify, Firebase, any presumably all the others. You can read more about that approach here:
-https://bitspittle.dev/blog/2022/staticdeploy
+- [HTML](https://github.com/m4md24/LearnHTML)
+- [CSS](https://github.com/m4md24/LearnCSS)
+- [Java](https://github.com/m4md24/LearnJava)
+- [Kotlin](https://github.com/m4md24/LearnKotlin)
+- Android
+    - Legacy Code
+    - [Jetpack Compose](https://github.com/m4md24/LearnJetpackCompose)
