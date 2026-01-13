@@ -4,7 +4,6 @@ import androidx.compose.runtime.*
 import com.barmajaa.m4md24.components.DarkTheme
 import com.barmajaa.m4md24.components.LightTheme
 import com.barmajaa.m4md24.components.Link
-import com.barmajaa.m4md24.components.Project
 import com.barmajaa.m4md24.components.Skill
 import com.barmajaa.m4md24.styles.AnimationStyles
 import com.barmajaa.m4md24.styles.SimpleStyles
