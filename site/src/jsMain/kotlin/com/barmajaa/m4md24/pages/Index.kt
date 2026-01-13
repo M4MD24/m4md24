@@ -84,10 +84,10 @@ fun Index() {
         Section({ classes("section", "fade-in-up") }) {
             H2 { Text(Constants.Layouts.Index.PROJECTS_TITLE) }
             Div({ classes("projects") }) {
-                val allProjects = Constants.Projects.GetAll()
+                /*val allProjects = Constants.Projects.GetAll()
                 allProjects.forEach {
                     Project(it)
-                }
+                }*/
             }
         }
 
