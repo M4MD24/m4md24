@@ -13,7 +13,7 @@ version = "V1.0"
 kobweb {
     app {
         index {
-            faviconPath.set("MohamedSadawy.png")
+            faviconPath.set("MohamedSadawyThabet.png")
             description.set("Software Engineer / Android Apps Developer")
         }
     }
