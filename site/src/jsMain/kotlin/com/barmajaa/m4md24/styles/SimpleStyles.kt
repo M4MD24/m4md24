@@ -1,36 +1,7 @@
 package com.barmajaa.m4md24.styles
 
 import com.varabyte.kobweb.compose.css.content
-import org.jetbrains.compose.web.css.DisplayStyle
-import org.jetbrains.compose.web.css.Position
-import org.jetbrains.compose.web.css.StyleSheet
-import org.jetbrains.compose.web.css.background
-import org.jetbrains.compose.web.css.border
-import org.jetbrains.compose.web.css.borderRadius
-import org.jetbrains.compose.web.css.cursor
-import org.jetbrains.compose.web.css.display
-import org.jetbrains.compose.web.css.em
-import org.jetbrains.compose.web.css.fontFamily
-import org.jetbrains.compose.web.css.fontSize
-import org.jetbrains.compose.web.css.fontStyle
-import org.jetbrains.compose.web.css.fontWeight
-import org.jetbrains.compose.web.css.gap
-import org.jetbrains.compose.web.css.height
-import org.jetbrains.compose.web.css.left
-import org.jetbrains.compose.web.css.margin
-import org.jetbrains.compose.web.css.marginBottom
-import org.jetbrains.compose.web.css.marginTop
-import org.jetbrains.compose.web.css.minHeight
-import org.jetbrains.compose.web.css.opacity
-import org.jetbrains.compose.web.css.padding
-import org.jetbrains.compose.web.css.paddingBottom
-import org.jetbrains.compose.web.css.percent
-import org.jetbrains.compose.web.css.position
-import org.jetbrains.compose.web.css.px
-import org.jetbrains.compose.web.css.textAlign
-import org.jetbrains.compose.web.css.textDecoration
-import org.jetbrains.compose.web.css.top
-import org.jetbrains.compose.web.css.width
+import org.jetbrains.compose.web.css.*
 
 object SimpleStyles : StyleSheet() {
     init {
@@ -131,8 +102,9 @@ object SimpleStyles : StyleSheet() {
 
         ".skills" style {
             display(DisplayStyle.Flex)
-            property("flex-wrap", "wrap")
+            flexWrap(FlexWrap.Wrap)
             gap(15.px)
+            flexDirection(FlexDirection.RowReverse)
         }
 
         ".skill" style {
