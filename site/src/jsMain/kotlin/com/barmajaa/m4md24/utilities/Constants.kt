@@ -102,20 +102,26 @@ object Constants {
     object Skills {
         const val SOFTWARE_DEVELOPMENT = "Software Development"
         const val PROBLEM_SOLVING = "Problem Solving"
+        const val CRITICAL_THINKING = "Critical Thinking"
         const val ANDROID_APPS_DEVELOPMENT = "Android Apps Development"
         const val LEGACY_CODE = "Legacy Code"
         const val JETPACK_COMPOSE = "Jetpack Compose"
         const val INTELLIJ_IDEA = "Intellij IDEA"
-        const val FIREBASE = "Firebase"
         const val JAVA = "Java"
         const val KOTLIN = "Kotlin"
         const val UI_UX = "UI/UX"
         const val FIGMA = "Figma"
+        const val BACK_END = "Back-End"
+        const val KTOR = "KTOR"
+        const val JWT = "JWT"
+        const val FIREBASE = "Firebase"
+        const val SUPABASE = "Supabase"
         const val DATABASE = "Database"
         const val DATA_GRIP = "Data Grip"
         const val SQL = "SQL"
         const val T_SQL = "T-SQL"
         const val MYSQL = "MySQL"
+        const val SQL_SERVER = "SQL Server"
         const val POSTGRESQL = "PostgreSQL"
         const val HSQLDB = "HSQLDB"
         const val NO_SQL = "NoSQL"
@@ -147,10 +153,11 @@ object Constants {
         const val CANVA = "Canva"
 
         fun GetAll() = listOf(
-            SOFTWARE_DEVELOPMENT, PROBLEM_SOLVING,
-            ANDROID_APPS_DEVELOPMENT, JETPACK_COMPOSE, LEGACY_CODE, INTELLIJ_IDEA, FIREBASE, JAVA, KOTLIN,
+            SOFTWARE_DEVELOPMENT, PROBLEM_SOLVING, CRITICAL_THINKING,
+            ANDROID_APPS_DEVELOPMENT, JETPACK_COMPOSE, LEGACY_CODE, INTELLIJ_IDEA, JAVA, KOTLIN,
             UI_UX, FIGMA,
-            DATABASE, DATA_GRIP, SQL, T_SQL, MYSQL, POSTGRESQL, HSQLDB, NO_SQL,
+            BACK_END, KTOR, JWT, FIREBASE, SUPABASE,
+            DATABASE, DATA_GRIP, SQL, T_SQL, MYSQL, SQL_SERVER, POSTGRESQL, HSQLDB, NO_SQL,
             WEB_DEVELOPMENT, WEBSTORM, FLEET, HTML, CSS, JAVASCRIPT,
             DOCUMENTATION, WRITE_SIDE, MARKDOWN, MERMAID, TEX,
             GIT, GITHUB, JSON, XML,
