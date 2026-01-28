@@ -44,7 +44,7 @@ object AboutMe {
             const val DISQUS = "https://disqus.com/by/m4md24"
         }
     }
-    // Sum = 3,705 (Not Repeated)
+    // Sum = 3,706 (Not Repeated)
     object ProblemSolvedCount {
         const val JAVA = 1752
         const val KOTLIN = 527
