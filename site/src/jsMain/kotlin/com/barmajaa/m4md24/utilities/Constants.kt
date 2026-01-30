@@ -103,6 +103,7 @@ object Constants {
         const val SOFTWARE_DEVELOPMENT = "Software Development"
         const val PROBLEM_SOLVING = "Problem Solving"
         const val CRITICAL_THINKING = "Critical Thinking"
+        const val MULTITASKING = "Multitasking"
         const val ANDROID_APPS_DEVELOPMENT = "Android Apps Development"
         const val LEGACY_CODE = "Legacy Code"
         const val JETPACK_COMPOSE = "Jetpack Compose"
@@ -112,7 +113,7 @@ object Constants {
         const val UI_UX = "UI/UX"
         const val FIGMA = "Figma"
         const val BACK_END = "Back-End"
-        const val KTOR = "KTOR"
+        const val KTOR = "Ktor"
         const val JWT = "JWT"
         const val FIREBASE = "Firebase"
         const val SUPABASE = "Supabase"
@@ -153,7 +154,7 @@ object Constants {
         const val CANVA = "Canva"
 
         fun GetAll() = listOf(
-            SOFTWARE_DEVELOPMENT, PROBLEM_SOLVING, CRITICAL_THINKING,
+            SOFTWARE_DEVELOPMENT, PROBLEM_SOLVING, CRITICAL_THINKING, MULTITASKING,
             ANDROID_APPS_DEVELOPMENT, JETPACK_COMPOSE, LEGACY_CODE, INTELLIJ_IDEA, JAVA, KOTLIN,
             UI_UX, FIGMA,
             BACK_END, KTOR, JWT, FIREBASE, SUPABASE,
