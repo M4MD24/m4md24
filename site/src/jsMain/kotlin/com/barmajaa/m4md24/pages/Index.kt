@@ -99,6 +99,18 @@ fun Index() {
                         Text(" • ")
                 }
             }
+
+            Br()
+
+            P({
+                style {
+                    property("font-size", "0.85em")
+                    property("opacity", "0.7")
+                    property("margin-top", "1rem")
+                }
+            }) {
+                Text("${Constants.Layouts.Index.LAST_EDIT_TITLE}: ${Constants.Layouts.Index.LAST_EDIT_VALUE}")
+            }
         }
     }
 }

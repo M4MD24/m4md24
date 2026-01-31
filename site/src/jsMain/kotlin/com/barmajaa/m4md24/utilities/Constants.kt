@@ -13,11 +13,10 @@ object Constants {
             const val ABOUT_ME = "مطور تطبيقات أندرويد بواسطة Legacy Code (Java & Kotlin) و Jetpack Compose (Kotlin)، وقمت بحل أكثر من ٣٧٠٠ سؤال ومشروع بمختلف المنصات واللغات مع التركيز على Java و Kotlin و SQL، أتميز بالبساطة في التطوير وحل المشكلات، أسعى لتعليم المسلمين ما يُفيدهم، آخذ بالأحوط في عملي وفي حياتي وأتجنب القيام بأي فعل مُحَرَّم فيه، مُستَخدِم جيد لأدوات الذكاء الإصطناعي في عملي لزيادة الإنتاجية، مُحِب للإطلاع على ما هو جديد أو غريب."
             const val SKILLS_TITLE = "المهارات"
             const val PROJECTS_TITLE = "المشاريع"
+            const val USERNAME = "m4md24"
+            const val LAST_EDIT_TITLE = "آخر تحديث"
+            const val LAST_EDIT_VALUE = "١٢ شعبان ١٤٤٧"
         }
-    }
-
-    object Strings {
-        const val USERNAME = "m4md24"
     }
 
     object WhatDidIDo {
@@ -170,12 +169,12 @@ object Constants {
     }
 
     object Links {
-        val email : Link = Link("📧", "${Strings.USERNAME}@gmail.com", "mailto:${Strings.USERNAME}@gmail.com")
-        val telegram : Link = Link("🗨️", "Telegram (@${Strings.USERNAME})", "https://t.me/${Strings.USERNAME}")
-        val behance : Link = Link("🎨", "Behance (@${Strings.USERNAME})", "https://www.behance.net/${Strings.USERNAME}")
-        val github : Link = Link("💻", "GitHub (@${Strings.USERNAME})", "https://github.com/${Strings.USERNAME}")
-        val youtube : Link = Link("📺", "Youtube (@${Strings.USERNAME})", "https://www.youtube.com/@${Strings.USERNAME}")
-        val linkedIn : Link = Link("💼", "LinkedIn (@${Strings.USERNAME})", "https://www.linkedin.com/in/${Strings.USERNAME}")
+        val email : Link = Link("📧", "${Layouts.Index.USERNAME}@gmail.com", "mailto:${Layouts.Index.USERNAME}@gmail.com")
+        val telegram : Link = Link("🗨️", "Telegram (@${Layouts.Index.USERNAME})", "https://t.me/${Layouts.Index.USERNAME}")
+        val behance : Link = Link("🎨", "Behance (@${Layouts.Index.USERNAME})", "https://www.behance.net/${Layouts.Index.USERNAME}")
+        val github : Link = Link("💻", "GitHub (@${Layouts.Index.USERNAME})", "https://github.com/${Layouts.Index.USERNAME}")
+        val youtube : Link = Link("📺", "Youtube (@${Layouts.Index.USERNAME})", "https://www.youtube.com/@${Layouts.Index.USERNAME}")
+        val linkedIn : Link = Link("💼", "LinkedIn (@${Layouts.Index.USERNAME})", "https://www.linkedin.com/in/${Layouts.Index.USERNAME}")
 
         fun GetAll() = listOf(
             email,
