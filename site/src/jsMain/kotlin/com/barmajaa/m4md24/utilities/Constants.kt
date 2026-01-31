@@ -7,7 +7,7 @@ import com.barmajaa.m4md24.models.Skill
 object Constants {
     object Layouts {
         object Index {
-            const val NAME = "محمد سعداوي ثابت"
+            const val NAME = "أبو عثمان محمد بن سعداوي"
             const val JOB_TITLE = "مطور تطبيقات أندرويد"
             const val ABOUT_ME_TITLE = "عني"
             const val ABOUT_ME = "مطور تطبيقات أندرويد بواسطة Legacy Code (Java & Kotlin) و Jetpack Compose (Kotlin)، وقمت بحل أكثر من ٣٧٠٠ سؤال ومشروع بمختلف المنصات واللغات مع التركيز على Java و Kotlin و SQL، أتميز بالبساطة في التطوير وحل المشكلات، أسعى لتعليم المسلمين ما يُفيدهم، آخذ بالأحوط في عملي وفي حياتي وأتجنب القيام بأي فعل مُحَرَّم فيه، مُستَخدِم جيد لأدوات الذكاء الإصطناعي في عملي لزيادة الإنتاجية، مُحِب للإطلاع على ما هو جديد أو غريب."
