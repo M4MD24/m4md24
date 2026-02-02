@@ -31,6 +31,7 @@ object AboutMe {
         }
 
         const val GITHUB = "https://github.com/m4md24"
+        const val BEHANCE = "https://www.behance.net/m4md24"
         const val LINKEDIN = "https://www.linkedin.com/in/m4md24"
         const val YOUTUBE = "https://www.youtube.com/@m4md24"
         const val MOBILE_NUMBER = "+201555400034"
