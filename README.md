@@ -45,12 +45,12 @@ object AboutMe {
             const val DISQUS = "https://disqus.com/by/m4md24"
         }
     }
-    // Sum = 3,769 (Not Repeated)
+    // Sum = 3,770 (Not Repeated)
     object ProblemSolvedCount {
         const val JAVA = 1752
         const val KOTLIN = 527
         const val SQL = 52
-        const val HYPER_SKILL = 1009
+        const val HYPER_SKILL = 1010
         const val PROGRAMMING_ADVICES = 429
     }
 }
