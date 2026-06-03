@@ -8,7 +8,7 @@
 object AboutMe {
     const val FIRST_NAME = "Mohamed"
     const val SECOND_NAME = "Sadawy"
-    const val ROLE = "Android Apps Developer"
+    const val ROLE = "Software Engineer / Full Stack Kotlin Developer"
 
     object Communication {
         const val EMAIL = "m4md24@gmail.com"
